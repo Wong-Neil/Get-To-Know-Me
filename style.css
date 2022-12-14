@@ -1,0 +1,71 @@
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-style: normal;
+    font: 300;
+    color: grey;
+}
+
+#aboutme-btn{
+    background-color: black; 
+    border: 5px solid white; 
+    color: white; 
+    padding: 20px 24px; 
+    cursor: pointer; 
+    width: 33%; 
+    float: left;
+    
+    
+}
+#gallery-btn{
+    background-color: black; 
+    border: 5px solid white; 
+    color: white; 
+    padding: 20px 24px; 
+    cursor: pointer; 
+    width: 33%; 
+    float: left;
+   
+}
+#contacts-btn{
+    background-color: black; 
+    border: 5px solid white;
+    color: white; 
+    padding: 20px 24px; 
+    cursor: pointer; 
+    width: 33%; 
+    
+}
+div.center{
+    text-align: center;
+}
+.Content-box{  
+    width: 500px;
+    border: 15px solid purple;
+    padding: 50px;
+    margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+}
+#hobby-list{
+    background-color: aliceblue;
+}
+#I1{
+    text-align: center;
+}
+#forest{
+    text-align: center;
+}
+button.go-back-btn{
+    background-color: black;
+    color: white;
+}
+div.home-btn{
+text-align: center;
+}
+div.gallery-shw{
+    text-align: center;
+}
