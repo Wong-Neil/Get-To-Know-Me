@@ -1,0 +1,42 @@
+body{
+    background-image: url(Yellow with Chicken.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+#about-me-title{
+    background-color: yellow;
+    width: 15%;
+    height: 40px;
+    margin: auto;
+    border: 5px solid lightblue;
+    text-align: center;
+}
+.Content-box{  
+    width: 750px;
+    border: 5px solid lightblue;
+    padding: 50px;
+    margin: auto;
+    background-image: url(Blue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    text-align: center;
+}
+#me{
+    border: 5px solid blue;
+}
+#things-i-like{
+    background-color: lightblue;
+}
+#about-me-content{
+    background-color: lightblue;
+}
+div.home-btn{
+    text-align: center;
+}
+button.back-btn{
+    background-color: white;
+    width: 10%;
+    cursor: pointer;
+}
